@@ -2,7 +2,7 @@
 
 ------------------- We are also planning a new promotion: players who spend the most time in the game will receive bonuses. Our primary focus, however, is on players who registered in 2022.
 
-------------------- We’ve noticed that the `end_session` field is left blank for some sessions. We need to determine the scale of this issue.
+------------------- We’ve noticed that the `end_session` field is left blank for some sessions. We need to determine the scale of this issue. 
 
 
 ---counting the number of users

@@ -1,6 +1,6 @@
 -- Calculate the monthly trends in total customer payments, broken down by product type.
 -- Create a chart and answer the following question: are there any significant changes in recurring revenue over a given period of time?
--- Please note that when calculating revenue, you must use the prices that were in effect at the time of purchase.
+-- Please note that when calculating revenue, you must use the prices that were in effect at the time of purchase. 
 
 select    date_trunc('month',dtime_pay) as mm
         , type
